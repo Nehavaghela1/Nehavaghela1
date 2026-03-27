@@ -32,18 +32,22 @@ I am an aspiring tech enthusiast with a strong learning mindset, currently divin
 </div>
 
 <div align="center" style="margin-top: 20px;">
-  <img src="https://img.shields.io/badge/Machine%20Learning%20(Learning)-FF8C00?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-FF8C00?style=for-the-badge&logo=jupyter&logoColor=white" />
   <img src="https://img.shields.io/badge/Data%20Analytics-0052CC?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Deep%20Learning%20(Basics)-6A1B9A?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Deep%20Learning-6A1B9A?style=for-the-badge&logo=tensorflow&logoColor=white" />
 </div>
 
 <br/>
 
-### 📈 GitHub Stats
+### 📊 My GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nehavaghela1&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117" height="195" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nehavaghela1&theme=github-dark&hide_border=true&background=0D1117" height="195" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Nehavaghela1&show_icons=true&theme=transparent&hide_border=true&title_color=00f2fe&icon_color=ff0844&text_color=e2e8f0" height="195" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nehavaghela1&layout=compact&theme=transparent&hide_border=true&title_color=ff0844&text_color=e2e8f0" height="195" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nehavaghela1&bg_color=transparent&color=00f2fe&line=ff0844&point=ffffff&area=true&hide_border=true" width="100%" />
 </div>
 
 <br/>
@@ -51,4 +55,3 @@ I am an aspiring tech enthusiast with a strong learning mindset, currently divin
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00f2fe&height=100&section=footer" width="100%" />
 </div>
-ch 
