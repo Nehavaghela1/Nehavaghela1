@@ -25,13 +25,16 @@ I am an aspiring tech enthusiast with a strong learning mindset, currently divin
 
 <br/>
 
-### 💻 My Learning Stack
+### 💻 Tech Stack & Tools
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=py,mysql,html,css,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=py,mysql,postgres,github,vscode,docker&amp;theme=dark" />
 </div>
 
 <div align="center" style="margin-top: 20px;">
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&amp;logo=powerbi&amp;logoColor=black" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&amp;logo=Tableau&amp;logoColor=white" />
+  <br/>
   <img src="https://img.shields.io/badge/Machine%20Learning-FF8C00?style=for-the-badge&amp;logo=jupyter&amp;logoColor=white" />
   <img src="https://img.shields.io/badge/Data%20Analytics-0052CC?style=for-the-badge&amp;logo=pandas&amp;logoColor=white" />
   <img src="https://img.shields.io/badge/Deep%20Learning-6A1B9A?style=for-the-badge&amp;logo=tensorflow&amp;logoColor=white" />
@@ -39,14 +42,14 @@ I am an aspiring tech enthusiast with a strong learning mindset, currently divin
 
 <br/>
 
-### 🐍 Contribution Snake Game
+### 🐍 Contribution Activity (Snake Game)
 
 <div align="center">
-  <!-- This image will appear once you set up the GitHub Action! -->
+  <!-- NOTE: This is currently showing the generic Platane demo snake! You need to run the GitHub Action to generate YOUR actual snake! -->
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nehavaghela1/Nehavaghela1/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nehavaghela1/Nehavaghela1/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Nehavaghela1/Nehavaghela1/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
 
@@ -55,7 +58,6 @@ I am an aspiring tech enthusiast with a strong learning mindset, currently divin
 ### 📊 My GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nehavaghela1&amp;show_icons=true&amp;theme=transparent&amp;hide_border=true&amp;title_color=00f2fe&amp;icon_color=ff0844&amp;text_color=e2e8f0" height="195" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nehavaghela1&amp;layout=compact&amp;theme=transparent&amp;hide_border=true&amp;title_color=ff0844&amp;text_color=e2e8f0" height="195" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Nehavaghela1&amp;show_icons=true&amp;bg_color=0a0b1a&amp;hide_border=true&amp;title_color=00f2fe&amp;icon_color=ff0844&amp;text_color=e2e8f0" height="195" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nehavaghela1&amp;layout=compact&amp;bg_color=0a0b1a&amp;hide_border=true&amp;title_color=ff0844&amp;text_color=e2e8f0" height="195" />
 </div>
-
