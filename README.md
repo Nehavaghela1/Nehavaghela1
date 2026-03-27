@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00f2fe&height=250&section=header&text=Hi!%20I'm%20Neha%20Vaghela%20%F0%9F%91%8B&fontSize=50&fontAlignY=38&desc=Aspiring%20Tech%20%26%20Data%20Enthusiast&descAlignY=58&descSize=20&animation=fadeIn" width="100%" />
+  <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=800&size=40&pause=1000&color=00f2fe&center=true&vCenter=true&random=false&width=800&height=100&lines=Hi!+I'm+Neha+Vaghela+👋;Data+Science+Fresher;Machine+Learning+Enthusiast" alt="Typing SVG" />
 </div>
 
 <h3 align="center">Passionate student exploring Data Science, Machine Learning, and Web Development. Always eager to learn new technologies and build innovative projects.</h3>
@@ -28,7 +28,7 @@ I am an aspiring tech enthusiast with a strong learning mindset, currently divin
 ### 💻 My Learning Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=py,mysql,html,css,github,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=py,mysql,html,css,github,vscode" />
 </div>
 
 <div align="center" style="margin-top: 20px;">
@@ -39,19 +39,22 @@ I am an aspiring tech enthusiast with a strong learning mindset, currently divin
 
 <br/>
 
-### 📊 My GitHub Activity
+### 🐍 Contribution Snake Game
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nehavaghela1&show_icons=true&theme=transparent&hide_border=true&title_color=00f2fe&icon_color=ff0844&text_color=e2e8f0" height="195" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nehavaghela1&layout=compact&theme=transparent&hide_border=true&title_color=ff0844&text_color=e2e8f0" height="195" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nehavaghela1&bg_color=transparent&color=00f2fe&line=ff0844&point=ffffff&area=true&hide_border=true" width="100%" />
+  <!-- This image will appear once you set up the GitHub Action! -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nehavaghela1/Nehavaghela1/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nehavaghela1/Nehavaghela1/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Nehavaghela1/Nehavaghela1/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
 
 <br/>
 
+### 📊 My GitHub Stats
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00f2fe&height=100&section=footer" width="100%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Nehavaghela1&show_icons=true&theme=transparent&hide_border=true&title_color=00f2fe&icon_color=ff0844&text_color=e2e8f0" height="195" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nehavaghela1&layout=compact&theme=transparent&hide_border=true&title_color=ff0844&text_color=e2e8f0" height="195" />
 </div>
