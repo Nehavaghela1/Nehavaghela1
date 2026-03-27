@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=800&size=40&pause=1000&color=00f2fe&center=true&vCenter=true&random=false&width=800&height=100&lines=Hi!+I'm+Neha+Vaghela+👋;Data+Science+Fresher;Machine+Learning+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&amp;weight=800&amp;size=40&amp;pause=1000&amp;color=00f2fe&amp;center=true&amp;vCenter=true&amp;random=false&amp;width=800&amp;height=100&amp;lines=Hi!+I'm+Neha+Vaghela+👋;Data+Science+Fresher;Machine+Learning+Enthusiast" alt="Typing SVG" />
 </div>
 
 <h3 align="center">Passionate student exploring Data Science, Machine Learning, and Web Development. Always eager to learn new technologies and build innovative projects.</h3>
@@ -8,13 +8,13 @@
 
 <div align="center">
   <a href="https://nehavaghela.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/🌐_View_My_Live_Portfolio-0a0b1a?style=for-the-badge&logoColor=white&color=00f2fe" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/🌐_View_My_Live_Portfolio-0a0b1a?style=for-the-badge&amp;logoColor=white&amp;color=00f2fe" alt="Portfolio" />
   </a>
   <a href="mailto:nehavaghela347@gmail.com">
-    <img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email" />
   </a>
   <a href="https://linkedin.com/in/vaghela-neha/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" />
   </a>
 </div>
 
@@ -32,9 +32,9 @@ I am an aspiring tech enthusiast with a strong learning mindset, currently divin
 </div>
 
 <div align="center" style="margin-top: 20px;">
-  <img src="https://img.shields.io/badge/Machine%20Learning-FF8C00?style=for-the-badge&logo=jupyter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Data%20Analytics-0052CC?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Deep%20Learning-6A1B9A?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-FF8C00?style=for-the-badge&amp;logo=jupyter&amp;logoColor=white" />
+  <img src="https://img.shields.io/badge/Data%20Analytics-0052CC?style=for-the-badge&amp;logo=pandas&amp;logoColor=white" />
+  <img src="https://img.shields.io/badge/Deep%20Learning-6A1B9A?style=for-the-badge&amp;logo=tensorflow&amp;logoColor=white" />
 </div>
 
 <br/>
@@ -55,6 +55,7 @@ I am an aspiring tech enthusiast with a strong learning mindset, currently divin
 ### 📊 My GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nehavaghela1&show_icons=true&theme=transparent&hide_border=true&title_color=00f2fe&icon_color=ff0844&text_color=e2e8f0" height="195" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nehavaghela1&layout=compact&theme=transparent&hide_border=true&title_color=ff0844&text_color=e2e8f0" height="195" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Nehavaghela1&amp;show_icons=true&amp;theme=transparent&amp;hide_border=true&amp;title_color=00f2fe&amp;icon_color=ff0844&amp;text_color=e2e8f0" height="195" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nehavaghela1&amp;layout=compact&amp;theme=transparent&amp;hide_border=true&amp;title_color=ff0844&amp;text_color=e2e8f0" height="195" />
 </div>
+
