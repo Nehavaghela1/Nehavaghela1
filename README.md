@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=833ab4,fd1d1d,fcb045&height=280&section=header&text=Hi!%20I'm%20Neha%20Vaghela%20%F0%9F%91%8B&fontSize=50&fontAlignY=38&desc=AI%20/%20ML%20Intern&descAlignY=58&descSize=25&animation=fadeIn" width="100%" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&weight=800&size=40&pause=1000&color=1E3A8A&center=true&vCenter=true&random=false&width=800&height=100&lines=Hi!+I'm+Neha+Vaghela+👋;AI+%2F+ML+Intern;Deep+Learning+Enthusiast" alt="Typing SVG" />
 </div>
 
 <h3 align="center">Passionate student exploring Data Science, Machine Learning, and Web Development. Always eager to learn new technologies and build innovative projects.</h3>
@@ -8,7 +8,7 @@
 
 <div align="center">
   <a href="https://nehavaghela.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/🌐_View_My_Live_Portfolio-0D1117?style=for-the-badge&logoColor=white&color=fd1d1d" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/🌐_View_My_Live_Portfolio-0D1117?style=for-the-badge&logoColor=white&color=1E3A8A" alt="Portfolio" />
   </a>
   <a href="mailto:nehavaghela347@gmail.com">
     <img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
@@ -35,9 +35,9 @@ I am an aspiring **AI/ML Intern** with a powerful curiosity for how data shapes 
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" />
   <br/>
-  <img src="https://img.shields.io/badge/Machine%20Learning-fd1d1d?style=for-the-badge&logo=jupyter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Data%20Analytics-fcb045?style=for-the-badge&logo=pandas&logoColor=black" />
-  <img src="https://img.shields.io/badge/Deep%20Learning-833ab4?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-1E3A8A?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Data%20Analytics-2563EB?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Deep%20Learning-0F172A?style=for-the-badge&logo=tensorflow&logoColor=white" />
 </div>
 
 <br/>
@@ -54,9 +54,12 @@ I am an aspiring **AI/ML Intern** with a powerful curiosity for how data shapes 
 
 <br/>
 
-### 📊 My GitHub Stats
+### 🏆 My GitHub Trophies & Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nehavaghela1&show_icons=true&bg_color=0D1117&hide_border=true&title_color=fcb045&icon_color=fd1d1d&text_color=e2e8f0" height="195" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nehavaghela1&background=0D1117&hide_border=true&title_color=fcb045&ring=fd1d1d&fire=833ab4&currStreakNum=e2e8f0" height="195" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Nehavaghela1&theme=tokyonight&no-bg=true&no-frame=true&margin-w=15" />
+</div>
+<br/>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nehavaghela1&theme=tokyonight&hide_border=true&title_color=1E3A8A" height="195" />
 </div>
