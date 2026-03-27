@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=ff0844,8b5cf6,ff8c00&height=280&section=header&text=Hi!%20I'm%20Neha%20Vaghela%20%F0%9F%91%8B&fontSize=50&fontAlignY=38&desc=Data%20Science%20Fresher%20%7C%20Creative%20Developer&descAlignY=58&descSize=20&animation=fadeIn" width="100%" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&weight=800&size=40&pause=1000&color=f102b3&center=true&vCenter=true&random=false&width=800&height=100&lines=Hi!+I'm+Neha+Vaghela+👋;Data+Science+Fresher;Machine+Learning+Enthusiast" alt="Typing SVG" />
 </div>
 
 <h3 align="center">Passionate student exploring Data Science, Machine Learning, and Web Development. Always eager to learn new technologies and build innovative projects.</h3>
@@ -58,6 +58,5 @@ I am an aspiring tech enthusiast with a strong learning mindset, currently divin
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Nehavaghela1&show_icons=true&theme=tokyonight&hide_border=true&title_color=00f2fe&icon_color=ff0844" height="195" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nehavaghela1&layout=compact&theme=tokyonight&hide_border=true&title_color=ff0844" height="195" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nehavaghela1&theme=tokyonight&hide_border=true&title_color=00f2fe" height="195" />
 </div>
-
