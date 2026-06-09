@@ -1,6 +1,4 @@
-# GitHub README.md
 
-```md
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&weight=800&size=40&pause=1000&color=1E3A8A&center=true&vCenter=true&random=false&width=950&height=100&lines=Hi!+I'm+Neha+Vaghela+👋;AI%2FML+%26+Python+Developer;Generative+AI+%7C+RAG+%7C+FastAPI;NLP+%7C+Computer+Vision+%7C+ML;Building+Practical+AI+Solutions" alt="Typing SVG" />
 </div>
@@ -163,4 +161,3 @@ AI/ML & Python Developer with hands-on experience in Generative AI, RAG Systems,
 ### ⭐ "Building practical AI solutions one project at a time."
 
 </div>
-```
